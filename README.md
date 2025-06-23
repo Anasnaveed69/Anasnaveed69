@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasnaveed69" alt="anasnaveed69" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital Resource Management Website**
+- 🔭 I have recently completed my **Hospital Resource Management (Medicare) website**
 
 - 🌱 I’m currently learning **ReactJS ,NodeJS and Database Management**
 
