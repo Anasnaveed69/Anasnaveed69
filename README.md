@@ -11,10 +11,10 @@
   </a>
 </p>
 
-- 🔭 I have recently completed my **Hospital Resource Management (Medicare) website**  
-- 🌱 I’m currently learning **ReactJS, NodeJS and Database Management**  
-- 👯 I’m looking to collaborate on **Frontend Development**  
-- 🤝 I’m looking for help with **Backend Management**  
+- 🔭 I have recently completed **Many new Projects**  
+- 🌱 I’m currently Mastering **ReactJS, NodeJS and NextJS**  
+- 👯 I’m looking to collaborate on **Backend Development**  
+- 🤝 I’m looking for help with **Frontend Development**  
 - 👨‍💻 All of my projects are available at [https://github.com/Anasnaveed69](https://github.com/Anasnaveed69)  
 - 📫 How to reach me **buttanas813@gmail.com** or <https://anasnaveedbutt-portfolio.vercel.app/>
 
