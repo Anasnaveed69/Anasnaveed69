@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **Backend Development**  
 - 🤝 I’m looking for help with **Frontend Development**  
 - 👨‍💻 All of my projects are available at [https://github.com/Anasnaveed69](https://github.com/Anasnaveed69)  
-- 📫 How to reach me **buttanas813@gmail.com** or <https://anasnaveedbutt-portfolio.vercel.app/>
+- 📫 How to reach me **buttanas813@gmail.com** or <https://anas-naveed-butt-portfolio.vercel.app/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
