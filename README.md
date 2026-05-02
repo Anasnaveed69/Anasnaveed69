@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Anas Naveed Butt</h1>
+<h3 align="center">A passionate Computer Science student from Pakistan</h3>
+
 # 💫 About Me:
 🔭 I have recently completed Many new Projects<br>🌱 I’m currently Mastering ReactJS, NodeJS and NextJS <br>👯 I’m looking to collaborate on Backend Development <br>🤝 I’m looking for help with AI Automation<br>👨‍💻 All of my projects are available at https://github.com/Anasnaveed69<br>📫 How to reach me buttanas813@gmail.com or https://www.anasnaveedbutt.site/
 
